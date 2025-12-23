@@ -1,16 +1,17 @@
 <!---aseemydv/aseemydv is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.--->
 
 ### 👋🏻 About me
-Hi, I'm a full-stack software developer specialized with Django(Python) stack development based in India. I hold a Bachelor's in Computer Science.
 
-* **Current Job**: Building Bahrain's Fintech ecosystem with micro-service architecture.
-* **I Speak:** English, Hindi, Python, JavaScript and HTML/CSS.
-* **Talk to me about:** ReactJS, Django/Flask, Full-Stack Software Development, REST API Development, UI/UX Design, and Startups.
-* **Let's bond over:** Standup Comedy, Spanish, Philosophy, Human Psychology and What Awaits us in Tech.
+Hi, I’m a full-stack software developer based in India, specializing in micro-service development using Springboot(Java), Node (React) and Django (Python). I hold a Bachelor’s degree in Computer Science.
+
+* **Current role**: Contributing to Bahrain’s fintech ecosystem by building scalable microservices architectures.
+* **Languages**: English, Hindi, Python, JavaScript, and HTML/CSS.
+* **Let’s talk about**: React.js, Django/Flask, full-stack web development, RESTful APIs, UI/UX design, and startups.
+* **Beyond code**: Stand-up comedy, philosophy, human psychology, and the future of technology.
 
 #### 💻 Work Experience
-* Sr. Software Developer @ Crewscale (Apr 2021 - Present)
-* Sr. Software Engineer @ A10 Networks (moved from Cavisson Systems, Inc.) (Jun 2016 - Jan 2021)
+* Software Engineer @ Tarabut Gateway (Apr 2021 - Present)
+* Software Engineer @ A10 Networks (Jun 2016 - Jan 2021)
 * Software Engineer @ HCL Technologies (Aug 2014 - Jun 2016)
 
 #### 👀 Where to find me?
