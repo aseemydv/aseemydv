@@ -2,7 +2,7 @@
 
 ### 👋🏻 About me
 
-Hi, I’m a full-stack software developer based in India, specializing in micro-service development using Springboot(Java), Node (React) and Django (Python). I hold a Bachelor’s degree in Computer Science.
+Hi, I’m a full-stack software developer based in Bahrain with a strong focus on building scalable microservices using Spring Boot (Java), Node.js/React, and Django (Python).
 
 * **Current role**: Contributing to Bahrain’s fintech ecosystem by building scalable microservices architectures.
 * **Languages**: English, Hindi, Python, JavaScript, and HTML/CSS.
