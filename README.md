@@ -2,11 +2,11 @@
 
 ### 👋🏻 About me
 
-Hi, I’m a full-stack software developer based in Bahrain with a strong focus on building scalable microservices using Spring Boot (Java), Node.js/React, and Django (Python).
+Hi, I’m a full-stack software developer based in Bahrain with a strong focus on designing and developing microservices using Spring Boot (Java), Node.js/React, and FastAPI (Python).
 
-* **Current role**: Contributing to Bahrain’s fintech ecosystem by building scalable microservices architectures.
-* **Languages**: English, Hindi, Python, JavaScript, and HTML/CSS.
-* **Let’s talk about**: React.js, Django/Flask, full-stack web development, RESTful APIs, UI/UX design, and startups.
+* **Current role**: Helping build Bahrain’s fintech ecosystem through cloud-native, event-driven distributed backend systems, designed to support open banking and financial APIs.
+* **Languages**: English, Hindi, Python, Java, JavaScript, and HTML/CSS.
+* **Let’s talk about**: Java, React.js, Django/Flask, full-stack web development, RESTful APIs, UI/UX design, and startups.
 * **Beyond code**: Stand-up comedy, philosophy, human psychology, and the future of technology.
 
 #### 💻 Work Experience
